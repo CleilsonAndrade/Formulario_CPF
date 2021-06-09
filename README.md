@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Formulario CPF</h1>
-  <p>Formulário de validções feito em HTML, CSS e JavaScript.</p>
+  <p>Formulário de validações feito em HTML, CSS e JavaScript.</p>
   <img src="./design/desktop.jpeg" alt="Logo" width="800">
 </div>
 
