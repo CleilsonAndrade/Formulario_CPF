@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Formulario CPF</h1>
   <p>Formulário de validções feito em HTML, CSS e JavaScript.</p>
-  <img src="./design/desktop.png" alt="Logo" width="800">
+  <img src="./design/desktop.jpeg" alt="Logo" width="800">
 </div>
 
 ---
 <h3 align="center">
-  <a href="https://cleilsonandrade.github.io/Calculadora_JavaScript/">Acessar demonstração</a>
+  <a href="https://cleilsonandrade.github.io/Formulario_CPF/">Acessar demonstração</a>
 </h3>
 
 
