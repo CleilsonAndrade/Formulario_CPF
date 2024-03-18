@@ -5,9 +5,8 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -18,7 +17,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura.
 
-## Features
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Validação de campos<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
@@ -47,7 +46,6 @@ Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura.
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
