@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura.
+Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura, onde é validado os campos e o formato de CPF, por meio de classes do JavaScript.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Validação de campos<br>
