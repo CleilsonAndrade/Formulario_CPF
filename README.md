@@ -41,7 +41,7 @@ Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura, onde �
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Formulario_CPF
+  $ git clone https://github.com/CleilsonAndrade/Formulario_CPF.git
   $ cd ./Formulario_CPF
 ```
 
