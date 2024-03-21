@@ -36,7 +36,7 @@ Aplicação foi desenvolvida com HTML, CSS e a linguagem JavaScript pura, onde �
   * #000<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Open Sans**, **sans-serif
+  * Open Sans, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
